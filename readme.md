@@ -1,12 +1,8 @@
 # buy.learn-anything.xyz
 
-Will be [Gumroad](https://gumroad.com/) clone but with Solana support and only 0.5 % comission.
+Next.js version of [buy](https://github.com/learn-anything/buy). Solid version will be used.
 
-Part of [Learn Anything](https://github.com/learn-anything/learn-anything.xyz).
-
-Using [Solana Web3 Template](https://github.com/nightly-labs/solana-web3-template) template.
-
-Template integrates [Nightly Connect](https://connect.nightly.app/docs/) for wallet management.
+This repo is mostly to test some potential solana stuff that only works in next.js. And should be ported to Solid.
 
 ## Setup
 
